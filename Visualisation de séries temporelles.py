@@ -1,7 +1,4 @@
 # ml
-Conception d’un Générateur Automatique de Modèles d’Intelligence Artificielle et Statistiques
-✅ Visualisation de séries temporelles:
-# step2_visualisation.py
 
 import pandas as pd
 import matplotlib.pyplot as plt
